@@ -1,0 +1,205 @@
+{
+    "sjjrnum": 0,
+    "jkdynum": 0,
+    "cpfwnum": 0,
+    "ptzlnum": 0,
+    "zlrwlist": [
+        {
+            "date": "",
+            "tnum": 0,
+            "dnum": 0
+        }
+    ],
+    "zbbqlist": [
+        {
+            "name": "汉代",
+            "num": 3
+        },
+        {
+            "name": "唐代",
+            "num": 2
+        },
+        {
+            "name": "宋代",
+            "num": 10
+        },
+        {
+            "name": "元代",
+            "num": 15
+        },
+        {
+            "name": "清代",
+            "num": 8
+        }
+
+    ],
+    "jkqynum": 0,
+    "fxxhnum": 0,
+    "fxxhlist": [
+        {
+            "month": "2024-02",
+            "level": "一级",
+            "sort": 1,
+            "num": 0
+        },
+        {
+            "month": "2024-02",
+            "level": "二级",
+            "sort": 2,
+            "num": 0
+        },
+        {
+            "month": "2024-02",
+            "level": "三级",
+            "sort": 3,
+            "num": 0
+        },
+        {
+            "month": "2024-02",
+            "level": "四级",
+            "sort": 4,
+            "num": 0
+        },
+        {
+            "month": "2024-02",
+            "level": "五",
+            "sort": 5,
+            "num": 0
+        }
+    ],
+    "jzhkredlist": [
+        {
+            "name": "中国",
+            "num": 100
+        },
+        {
+            "name": "希腊",
+            "num": 20
+        },
+        {
+            "name": "印度",
+            "num": 10
+        },
+        {
+            "name": "古罗马",
+            "num": 10
+        },
+        {
+            "name": "埃及",
+            "num": 10
+        },
+        {
+            "name": "阿拉伯",
+            "num": 15
+        }
+    ],
+    "jzhkblacklist": [
+        {
+            "name": "春秋",
+            "num": 30
+        },
+        {
+            "name": "汉代",
+            "num": 133
+        },
+        {
+            "name": "唐代",
+            "num": 557
+        },
+        {
+            "name": "宋代",
+            "num": 336
+        },
+        {
+            "name": "元代",
+            "num": 28
+        },
+        {
+            "name": "明代",
+            "num": 777
+        }
+    ],
+    "jkdylistm12": [
+        {
+            "month": "",
+            "num": 0
+        },
+        {
+            "month": "战国",
+            "num": 2
+        },
+        {
+            "month": "西汉",
+            "num": 2
+        },
+        {
+            "month": "东汉",
+            "num": 3
+        },
+        {
+            "month": "魏晋南北朝",
+            "num": 2
+        },
+        {
+            "month": "唐代",
+            "num": 2
+        },
+        {
+            "month": "宋代",
+            "num": 27
+        },
+        {
+            "month": "元代",
+            "num": 5
+        },
+        {
+            "month": "明代",
+            "num": 10
+        },
+        {
+            "month": "清代",
+            "num": 5
+        }
+        
+    ],
+    "jkdylisttop": [
+        {
+            "time": "",
+            "bank": "********",
+            "iname": "********"
+        }
+    ],
+    "cpfwlisttop": [
+        {
+            "time": "",
+            "bank": "********",
+            "iname": "********"
+        }
+    ],
+    "cpljfwlistm12": [
+        {
+            "month": "春秋",
+            "num": 25
+        },
+        {
+            "month": "汉代",
+            "num": 99
+        },
+        {
+            "month": "唐代",
+            "num": 322
+        },
+        {
+            "month": "宋代",
+            "num": 133
+        },
+        {
+            "month": "元代",
+            "num": 17
+        },
+        {
+            "month": "明代",
+            "num": 501
+        }
+    ]
+}
